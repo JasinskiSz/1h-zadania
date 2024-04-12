@@ -9,4 +9,5 @@ d) sumowanie kolumny `Wartość brutto (w zł)` powinno odbywać się automaty
 e) dla pola `Data i godzina` należy wstawić funkcję automatycznie wstawiającą bieżącą datę i godzinę
 
 Wzór kosztorysu komputera:
-![[wzor_kosztorysu_komputera.png]]
+<br>
+<img width="695" alt="wzor_kosztorysu_komputera" src="https://github.com/JasinskiSz/1h-zadania/assets/33954943/46dd54f2-c7b6-4682-adf0-19d086634fc4">
